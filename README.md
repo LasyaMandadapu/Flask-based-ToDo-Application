@@ -1,2 +1,2 @@
-# Flask-based-ToDo-Application
-It is an ToDo Application which has been built by using Flask
+# Flask-based-todo-Application
+This is an ToDo  Application which uses flask framework
